@@ -23,3 +23,15 @@ https://kabutan.jp/stock/finance?code=8058
 
 先跑数据，积累到一定程度上滞后就可以明确方向了
 应该也都3年之后了
+
+
+https://haitoh-db.com/nikkei225/
+
+配当金の推移
+https://irbank.net/E31748/dividend
+
+
+会社四季报
+https://shikiho.toyokeizai.net/stocks/6920
+
+存量的分红数据有了，我自己就能做分红收益率。跟踪股价即可
